@@ -1,0 +1,6 @@
+{
+  "name": "DocuChat AI - PDF RAG Assistant",
+  "description": "A production-grade RAG chatbot that retrieves data from uploaded PDF documents using vector search, provides grounded answers with source citations, and features persistent embeddings storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
